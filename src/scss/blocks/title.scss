@@ -1,0 +1,29 @@
+.title {
+  margin-top: 0;
+
+  &--blue {
+    color: var(--blue);
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    letter-spacing: -0.25px;
+  }
+
+  &--green {
+    color: var(--green);
+    font-size: 0.9375rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    letter-spacing: -0.19px;
+    line-height: 20px;
+    
+  }
+
+  &--white {
+    color: var(--white);
+    font-size: 1.125rem;
+    font-weight: 700;
+    letter-spacing: -0.22px;
+    margin-bottom: 18px;
+  }
+}

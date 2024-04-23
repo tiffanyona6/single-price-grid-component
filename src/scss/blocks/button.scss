@@ -1,0 +1,11 @@
+.button {
+  display: inline-block;
+  align-items: center;
+  text-align: center;
+  background-color: var(--green);
+  color: var(--white);
+  width: 100%;
+  padding: 15px 0;
+  box-shadow: 0 10px 10px #00000025;
+  border-radius: 5px;
+}

@@ -1,0 +1,43 @@
+.text {
+  margin-top: 0;
+  &--grey {
+    color: var(--grey);
+    font-weight: 400;
+    font-size: 0.875rem;
+    line-height: 26px;
+    letter-spacing: -0.17px;
+  }
+
+  &--number {
+    color: var(--white);
+    font-weight: 700;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    letter-spacing: -0.4px;
+  }
+
+  &--month {
+    color: var(--white);
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 26px;
+    letter-spacing: -0.2px;
+    opacity: 50%;
+  }
+
+  &--white {
+    color: var(--white);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: -0.2px;
+  }
+
+  &--list {
+    color: var(--white);
+    font-weight: 400;
+    font-size: 0.875rem;
+    line-height: 20px;
+    letter-spacing: -0.17px;
+  }
+}
